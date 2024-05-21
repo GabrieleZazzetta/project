@@ -1,2 +1,2 @@
 # project
-Sceduling Algorithm Simulator
+Sceduling Algorithm Simulator with IA evaluation model
